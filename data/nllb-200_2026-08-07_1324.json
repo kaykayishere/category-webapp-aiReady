@@ -1,0 +1,5127 @@
+{
+  "sourceId": "nllb-200",
+  "generatedAt": "2026-08-07T13:24:40Z",
+  "overviewStats": [
+    {
+      "label": "Languages in NLLB-200",
+      "value": 196,
+      "format": "number"
+    },
+    {
+      "label": "Model family",
+      "value": "facebook/nllb-200",
+      "format": "text"
+    },
+    {
+      "label": "Task",
+      "value": "Machine translation",
+      "format": "text"
+    },
+    {
+      "label": "FLORES-aligned",
+      "value": "Yes",
+      "format": "text"
+    }
+  ],
+  "languages": [
+    {
+      "code": "ace",
+      "name": "Acehnese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "acm",
+      "name": "acm",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "acq",
+      "name": "acq",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "aeb",
+      "name": "aeb",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ajp",
+      "name": "ajp",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ak",
+      "name": "Akan",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "als",
+      "name": "als",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "apc",
+      "name": "apc",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ars",
+      "name": "ars",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ary",
+      "name": "ary",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "arz",
+      "name": "arz",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "as",
+      "name": "Assamese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ast",
+      "name": "ast",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "awa",
+      "name": "awa",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ayr",
+      "name": "ayr",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "azb",
+      "name": "azb",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "azj",
+      "name": "North Azerbaijani",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ba",
+      "name": "ba",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ban",
+      "name": "Balinese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "be",
+      "name": "be",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bem",
+      "name": "bem",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bg",
+      "name": "bg",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bho",
+      "name": "Bhojpuri",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bjn",
+      "name": "Banjar",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bm",
+      "name": "Bambara",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bo",
+      "name": "Tibetan",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bs",
+      "name": "bs",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "bug",
+      "name": "Buginese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ca",
+      "name": "Catalan",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ceb",
+      "name": "Cebuano",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "cjk",
+      "name": "cjk",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ckb",
+      "name": "Central Kurdish",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "crh",
+      "name": "crh",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "cy",
+      "name": "Welsh",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "dik",
+      "name": "dik",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "dyu",
+      "name": "dyu",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "dz",
+      "name": "Dzongkha",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ee",
+      "name": "Ewe",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "eo",
+      "name": "eo",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "et",
+      "name": "et",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "fj",
+      "name": "Fijian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "fo",
+      "name": "fo",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "fon",
+      "name": "fon",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "fur",
+      "name": "fur",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "fuv",
+      "name": "Nigerian Fulfulde",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ga",
+      "name": "Irish",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "gaz",
+      "name": "gaz",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "gd",
+      "name": "gd",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "gl",
+      "name": "Galician",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "gn",
+      "name": "gn",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "hne",
+      "name": "Chhattisgarhi",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "hr",
+      "name": "hr",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ht",
+      "name": "ht",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ilo",
+      "name": "Iloko",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "jv",
+      "name": "Javanese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kab",
+      "name": "kab",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kac",
+      "name": "kac",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kam",
+      "name": "kam",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kbp",
+      "name": "kbp",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kea",
+      "name": "kea",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kg",
+      "name": "Kongo",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "khk",
+      "name": "Halh Mongolian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ki",
+      "name": "ki",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kk",
+      "name": "Kazakh",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "km",
+      "name": "Khmer",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kmb",
+      "name": "kmb",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kmr",
+      "name": "kmr",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "kn",
+      "name": "Kannada",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "knc",
+      "name": "knc",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ks",
+      "name": "Kashmiri",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lb",
+      "name": "lb",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lg",
+      "name": "Ganda",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "li",
+      "name": "li",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lij",
+      "name": "lij",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lmo",
+      "name": "lmo",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ln",
+      "name": "Lingala",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lo",
+      "name": "Lao",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lt",
+      "name": "lt",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ltg",
+      "name": "ltg",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lua",
+      "name": "lua",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "luo",
+      "name": "luo",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lus",
+      "name": "Mizo",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "lvs",
+      "name": "lvs",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "mag",
+      "name": "Magahi",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "mai",
+      "name": "Maithili",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "mar",
+      "name": "mar",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "mi",
+      "name": "Maori",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "min",
+      "name": "Minangkabau",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "mk",
+      "name": "mk",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "mni",
+      "name": "Manipuri",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "mos",
+      "name": "mos",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "mt",
+      "name": "mt",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "nb",
+      "name": "nb",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "nn",
+      "name": "nn",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "npi",
+      "name": "Nepali",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "nso",
+      "name": "nso",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "nus",
+      "name": "nus",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ny",
+      "name": "Nyanja",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "oc",
+      "name": "oc",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ory",
+      "name": "ory",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "pag",
+      "name": "Pangasinan",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "pap",
+      "name": "pap",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "pbt",
+      "name": "pbt",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "pes",
+      "name": "Persian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "plt",
+      "name": "Malagasy",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "prs",
+      "name": "prs",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "quy",
+      "name": "quy",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "rn",
+      "name": "rn",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "rw",
+      "name": "Kinyarwanda",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sa",
+      "name": "Sanskrit",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sat",
+      "name": "Santali",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sc",
+      "name": "sc",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "scn",
+      "name": "scn",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sd",
+      "name": "Sindhi",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sg",
+      "name": "sg",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "shn",
+      "name": "shn",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "si",
+      "name": "Sinhala",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sk",
+      "name": "sk",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sl",
+      "name": "sl",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sm",
+      "name": "Samoan",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sr",
+      "name": "sr",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ss",
+      "name": "ss",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "st",
+      "name": "Southern Sotho",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "su",
+      "name": "Sundanese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "swh",
+      "name": "Swahili",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "szl",
+      "name": "szl",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "taq",
+      "name": "taq",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tg",
+      "name": "Tajik",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ti",
+      "name": "Tigrinya",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tk",
+      "name": "tk",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tn",
+      "name": "Tswana",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tpi",
+      "name": "tpi",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ts",
+      "name": "ts",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tt",
+      "name": "tt",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tum",
+      "name": "tum",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tw",
+      "name": "Twi",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "tzm",
+      "name": "tzm",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ug",
+      "name": "Uyghur",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "umb",
+      "name": "umb",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "uzn",
+      "name": "uzn",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "vec",
+      "name": "vec",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "war",
+      "name": "Waray",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "wo",
+      "name": "Wolof",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "ydd",
+      "name": "ydd",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "yue",
+      "name": "Cantonese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "zsm",
+      "name": "Malay",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    },
+    {
+      "code": "zu",
+      "name": "Zulu",
+      "stats": [
+        {
+          "label": "In NLLB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Included in NLLB-200 translation model"
+        }
+      ],
+      "notes": [
+        "Presence means the language is among the 200 supported by Meta's NLLB translation models."
+      ],
+      "links": [
+        {
+          "label": "NLLB-200 on HF",
+          "url": "https://huggingface.co/facebook/nllb-200-distilled-600M"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "Hugging Face model card + tags for facebook/nllb-200-distilled-600M"
+  }
+}

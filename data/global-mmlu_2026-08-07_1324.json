@@ -1,0 +1,1118 @@
+{
+  "sourceId": "global-mmlu",
+  "generatedAt": "2026-08-07T13:24:40Z",
+  "overviewStats": [
+    {
+      "label": "Languages in Global-MMLU",
+      "value": 42,
+      "format": "number"
+    },
+    {
+      "label": "Task",
+      "value": "Knowledge / MMLU-style evaluation",
+      "format": "text"
+    },
+    {
+      "label": "Maintainer",
+      "value": "Cohere For AI",
+      "format": "text"
+    }
+  ],
+  "languages": [
+    {
+      "code": "am",
+      "name": "Amharic",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "fil",
+      "name": "Filipino",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "lt",
+      "name": "lt",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "mg",
+      "name": "Malagasy",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ne",
+      "name": "Nepali",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ny",
+      "name": "Nyanja",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "si",
+      "name": "Sinhala",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "sr",
+      "name": "sr",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "stats": [
+        {
+          "label": "In Global-MMLU",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Global-MMLU knowledge evaluation"
+        }
+      ],
+      "notes": [
+        "Knowledge evaluation coverage across 42 languages."
+      ],
+      "links": [
+        {
+          "label": "Global-MMLU on HF",
+          "url": "https://huggingface.co/datasets/CohereForAI/Global-MMLU"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "Hugging Face dataset tags for CohereForAI/Global-MMLU"
+  }
+}

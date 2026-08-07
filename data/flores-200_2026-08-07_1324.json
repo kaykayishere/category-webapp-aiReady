@@ -1,0 +1,5070 @@
+{
+  "sourceId": "flores-200",
+  "generatedAt": "2026-08-07T13:24:40Z",
+  "overviewStats": [
+    {
+      "label": "Languages in FLORES-200",
+      "value": 194,
+      "format": "number"
+    },
+    {
+      "label": "Role",
+      "value": "MT evaluation benchmark",
+      "format": "text"
+    },
+    {
+      "label": "De facto baseline",
+      "value": "Yes — if a language is in FLORES it is evaluable",
+      "format": "text"
+    }
+  ],
+  "languages": [
+    {
+      "code": "ace",
+      "name": "Acehnese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "acm",
+      "name": "acm",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "acq",
+      "name": "acq",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "aeb",
+      "name": "aeb",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "afr",
+      "name": "afr",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ajp",
+      "name": "ajp",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "aka",
+      "name": "aka",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "als",
+      "name": "als",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "amh",
+      "name": "Amharic",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "apc",
+      "name": "apc",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "arb",
+      "name": "Arabic",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ars",
+      "name": "ars",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ary",
+      "name": "ary",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "arz",
+      "name": "arz",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "asm",
+      "name": "asm",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ast",
+      "name": "ast",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "awa",
+      "name": "awa",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ayr",
+      "name": "ayr",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "azb",
+      "name": "azb",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "azj",
+      "name": "North Azerbaijani",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bak",
+      "name": "bak",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bam",
+      "name": "bam",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ban",
+      "name": "Balinese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bel",
+      "name": "bel",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bem",
+      "name": "bem",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ben",
+      "name": "Bengali",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bho",
+      "name": "Bhojpuri",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bjn",
+      "name": "Banjar",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bod",
+      "name": "Tibetan",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bos",
+      "name": "bos",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bug",
+      "name": "Buginese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "bul",
+      "name": "bul",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "cat",
+      "name": "cat",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ceb",
+      "name": "Cebuano",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ces",
+      "name": "Czech",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "cjk",
+      "name": "cjk",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ckb",
+      "name": "Central Kurdish",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "crh",
+      "name": "crh",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "cym",
+      "name": "cym",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "dan",
+      "name": "dan",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "deu",
+      "name": "German",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "dik",
+      "name": "dik",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "dyu",
+      "name": "dyu",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "dzo",
+      "name": "Dzongkha",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ell",
+      "name": "Greek",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "eng",
+      "name": "eng",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "epo",
+      "name": "epo",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "est",
+      "name": "est",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "eus",
+      "name": "eus",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ewe",
+      "name": "ewe",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "fao",
+      "name": "fao",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "fij",
+      "name": "fij",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "fin",
+      "name": "fin",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "fon",
+      "name": "fon",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "fra",
+      "name": "fra",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "fur",
+      "name": "fur",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "fuv",
+      "name": "Nigerian Fulfulde",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "gla",
+      "name": "gla",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "gle",
+      "name": "gle",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "glg",
+      "name": "glg",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "grn",
+      "name": "grn",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "guj",
+      "name": "guj",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "hat",
+      "name": "hat",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "hau",
+      "name": "Hausa",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "heb",
+      "name": "Hebrew",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "hin",
+      "name": "hin",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "hne",
+      "name": "Chhattisgarhi",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "hrv",
+      "name": "hrv",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "hun",
+      "name": "hun",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "hye",
+      "name": "hye",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ibo",
+      "name": "Igbo",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ilo",
+      "name": "Iloko",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ind",
+      "name": "Indonesian",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "isl",
+      "name": "isl",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ita",
+      "name": "ita",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "jav",
+      "name": "Javanese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "jpn",
+      "name": "Japanese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kab",
+      "name": "kab",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kac",
+      "name": "kac",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kam",
+      "name": "kam",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kan",
+      "name": "kan",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kas",
+      "name": "kas",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kat",
+      "name": "kat",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kaz",
+      "name": "kaz",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kbp",
+      "name": "kbp",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kea",
+      "name": "kea",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "khk",
+      "name": "Halh Mongolian",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "khm",
+      "name": "Khmer",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kik",
+      "name": "kik",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kin",
+      "name": "kin",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kir",
+      "name": "kir",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kmb",
+      "name": "kmb",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kmr",
+      "name": "kmr",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "knc",
+      "name": "knc",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kon",
+      "name": "kon",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "kor",
+      "name": "Korean",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lao",
+      "name": "Lao",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lij",
+      "name": "lij",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lim",
+      "name": "lim",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lin",
+      "name": "lin",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lit",
+      "name": "lit",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lmo",
+      "name": "lmo",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ltg",
+      "name": "ltg",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ltz",
+      "name": "ltz",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lua",
+      "name": "lua",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lug",
+      "name": "lug",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "luo",
+      "name": "luo",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lus",
+      "name": "Mizo",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "lvs",
+      "name": "lvs",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mag",
+      "name": "Magahi",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mai",
+      "name": "Maithili",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mal",
+      "name": "mal",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mar",
+      "name": "mar",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "min",
+      "name": "Minangkabau",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mkd",
+      "name": "mkd",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mlt",
+      "name": "mlt",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mni",
+      "name": "Manipuri",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mos",
+      "name": "mos",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mri",
+      "name": "Maori",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "mya",
+      "name": "Burmese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "nld",
+      "name": "Dutch",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "nno",
+      "name": "nno",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "nob",
+      "name": "Norwegian",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "npi",
+      "name": "Nepali",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "nso",
+      "name": "nso",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "nus",
+      "name": "nus",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "nya",
+      "name": "Nyanja",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "oci",
+      "name": "oci",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ory",
+      "name": "ory",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "pag",
+      "name": "Pangasinan",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "pan",
+      "name": "pan",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "pap",
+      "name": "pap",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "pbt",
+      "name": "pbt",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "pes",
+      "name": "Persian",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "plt",
+      "name": "Malagasy",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "pol",
+      "name": "pol",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "por",
+      "name": "por",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "prs",
+      "name": "prs",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "quy",
+      "name": "quy",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ron",
+      "name": "Romanian",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "run",
+      "name": "run",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "rus",
+      "name": "rus",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "sag",
+      "name": "sag",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "san",
+      "name": "san",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "sat",
+      "name": "Santali",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "scn",
+      "name": "scn",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "shn",
+      "name": "shn",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "sin",
+      "name": "Sinhala",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "slk",
+      "name": "slk",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "slv",
+      "name": "slv",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "smo",
+      "name": "smo",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "sna",
+      "name": "Shona",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "snd",
+      "name": "snd",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "som",
+      "name": "Somali",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "sot",
+      "name": "sot",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "spa",
+      "name": "spa",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "srd",
+      "name": "srd",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "srp",
+      "name": "srp",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ssw",
+      "name": "ssw",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "sun",
+      "name": "Sundanese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "swe",
+      "name": "swe",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "swh",
+      "name": "Swahili",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "szl",
+      "name": "szl",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tam",
+      "name": "Tamil",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tat",
+      "name": "tat",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tel",
+      "name": "Telugu",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tgk",
+      "name": "tgk",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tgl",
+      "name": "Tagalog",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tha",
+      "name": "Thai",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tir",
+      "name": "Tigrinya",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tpi",
+      "name": "tpi",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tsn",
+      "name": "tsn",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tso",
+      "name": "tso",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tuk",
+      "name": "tuk",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tum",
+      "name": "tum",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tur",
+      "name": "tur",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "twi",
+      "name": "twi",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "tzm",
+      "name": "tzm",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "uig",
+      "name": "uig",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "ukr",
+      "name": "Ukrainian",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "umb",
+      "name": "umb",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "urd",
+      "name": "Urdu",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "uzn",
+      "name": "uzn",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "vec",
+      "name": "vec",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "vie",
+      "name": "vie",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "war",
+      "name": "Waray",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "wol",
+      "name": "wol",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "xho",
+      "name": "Xhosa",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "yid",
+      "name": "yid",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "yor",
+      "name": "Yoruba",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "yue",
+      "name": "Cantonese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "zho",
+      "name": "Chinese",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "zsm",
+      "name": "Malay",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    },
+    {
+      "code": "zul",
+      "name": "Zulu",
+      "stats": [
+        {
+          "label": "In FLORES-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "FLORES-200 evaluation set"
+        }
+      ],
+      "notes": [
+        "Presence means parallel evaluation data exists; the language is evaluable for translation quality."
+      ],
+      "links": [
+        {
+          "label": "FLORES repo",
+          "url": "https://github.com/facebookresearch/flores"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "FLORES-200 official language list (Facebook Research)"
+  }
+}

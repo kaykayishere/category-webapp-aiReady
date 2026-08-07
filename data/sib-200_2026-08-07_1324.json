@@ -1,0 +1,5148 @@
+{
+  "sourceId": "sib-200",
+  "generatedAt": "2026-08-07T13:24:40Z",
+  "overviewStats": [
+    {
+      "label": "Languages in SIB-200",
+      "value": 197,
+      "format": "number"
+    },
+    {
+      "label": "Task",
+      "value": "Topic classification",
+      "format": "text"
+    },
+    {
+      "label": "Eval coverage",
+      "value": "Among the widest available",
+      "format": "text"
+    }
+  ],
+  "languages": [
+    {
+      "code": "ace",
+      "name": "Acehnese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "acm",
+      "name": "acm",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "acq",
+      "name": "acq",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "aeb",
+      "name": "aeb",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ajp",
+      "name": "ajp",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ak",
+      "name": "Akan",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "als",
+      "name": "als",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "apc",
+      "name": "apc",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ars",
+      "name": "ars",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ary",
+      "name": "ary",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "arz",
+      "name": "arz",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "as",
+      "name": "Assamese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ast",
+      "name": "ast",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "awa",
+      "name": "awa",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ayr",
+      "name": "ayr",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "azb",
+      "name": "azb",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "azj",
+      "name": "North Azerbaijani",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ba",
+      "name": "ba",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ban",
+      "name": "Balinese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "be",
+      "name": "be",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bem",
+      "name": "bem",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bg",
+      "name": "bg",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bho",
+      "name": "Bhojpuri",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bjn",
+      "name": "Banjar",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bm",
+      "name": "Bambara",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bo",
+      "name": "Tibetan",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bs",
+      "name": "bs",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "bug",
+      "name": "Buginese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ca",
+      "name": "Catalan",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ceb",
+      "name": "Cebuano",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "cjk",
+      "name": "cjk",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ckb",
+      "name": "Central Kurdish",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "crh",
+      "name": "crh",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "cy",
+      "name": "Welsh",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "dik",
+      "name": "dik",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "dyu",
+      "name": "dyu",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "dz",
+      "name": "Dzongkha",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ee",
+      "name": "Ewe",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "eo",
+      "name": "eo",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "et",
+      "name": "et",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "fj",
+      "name": "Fijian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "fo",
+      "name": "fo",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "fon",
+      "name": "fon",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "fur",
+      "name": "fur",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "fuv",
+      "name": "Nigerian Fulfulde",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ga",
+      "name": "Irish",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "gaz",
+      "name": "gaz",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "gd",
+      "name": "gd",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "gl",
+      "name": "Galician",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "gn",
+      "name": "gn",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "hne",
+      "name": "Chhattisgarhi",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "hr",
+      "name": "hr",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ht",
+      "name": "ht",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ilo",
+      "name": "Iloko",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "jv",
+      "name": "Javanese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kab",
+      "name": "kab",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kac",
+      "name": "kac",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kam",
+      "name": "kam",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kbp",
+      "name": "kbp",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kea",
+      "name": "kea",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kg",
+      "name": "Kongo",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "khk",
+      "name": "Halh Mongolian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ki",
+      "name": "ki",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kk",
+      "name": "Kazakh",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "km",
+      "name": "Khmer",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kmb",
+      "name": "kmb",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kmr",
+      "name": "kmr",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "kn",
+      "name": "Kannada",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "knc",
+      "name": "knc",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ks",
+      "name": "Kashmiri",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lb",
+      "name": "lb",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lg",
+      "name": "Ganda",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "li",
+      "name": "li",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lij",
+      "name": "lij",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lmo",
+      "name": "lmo",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ln",
+      "name": "Lingala",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lo",
+      "name": "Lao",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lt",
+      "name": "lt",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ltg",
+      "name": "ltg",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lua",
+      "name": "lua",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "luo",
+      "name": "luo",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lus",
+      "name": "Mizo",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "lvs",
+      "name": "lvs",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "mag",
+      "name": "Magahi",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "mai",
+      "name": "Maithili",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "mar",
+      "name": "mar",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "mi",
+      "name": "Maori",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "min",
+      "name": "Minangkabau",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "mk",
+      "name": "mk",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "mni",
+      "name": "Manipuri",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "mos",
+      "name": "mos",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "mt",
+      "name": "mt",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "nb",
+      "name": "nb",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "nn",
+      "name": "nn",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "npi",
+      "name": "Nepali",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "nqo",
+      "name": "N'Ko",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "nso",
+      "name": "nso",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "nus",
+      "name": "nus",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ny",
+      "name": "Nyanja",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "oc",
+      "name": "oc",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ory",
+      "name": "ory",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "pag",
+      "name": "Pangasinan",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "pap",
+      "name": "pap",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "pbt",
+      "name": "pbt",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "pes",
+      "name": "Persian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "plt",
+      "name": "Malagasy",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "prs",
+      "name": "prs",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "quy",
+      "name": "quy",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "rn",
+      "name": "rn",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "rw",
+      "name": "Kinyarwanda",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sa",
+      "name": "Sanskrit",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sat",
+      "name": "Santali",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sc",
+      "name": "sc",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "scn",
+      "name": "scn",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sd",
+      "name": "Sindhi",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sg",
+      "name": "sg",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "shn",
+      "name": "shn",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "si",
+      "name": "Sinhala",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sk",
+      "name": "sk",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sl",
+      "name": "sl",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sm",
+      "name": "Samoan",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sr",
+      "name": "sr",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ss",
+      "name": "ss",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "st",
+      "name": "Southern Sotho",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "su",
+      "name": "Sundanese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "swh",
+      "name": "Swahili",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "szl",
+      "name": "szl",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "taq",
+      "name": "taq",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tg",
+      "name": "Tajik",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ti",
+      "name": "Tigrinya",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tk",
+      "name": "tk",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tn",
+      "name": "Tswana",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tpi",
+      "name": "tpi",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ts",
+      "name": "ts",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tt",
+      "name": "tt",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tum",
+      "name": "tum",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tw",
+      "name": "Twi",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "tzm",
+      "name": "tzm",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ug",
+      "name": "Uyghur",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "umb",
+      "name": "umb",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "uzn",
+      "name": "uzn",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "vec",
+      "name": "vec",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "war",
+      "name": "Waray",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "wo",
+      "name": "Wolof",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "ydd",
+      "name": "ydd",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "yue",
+      "name": "Cantonese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "zsm",
+      "name": "Malay",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    },
+    {
+      "code": "zu",
+      "name": "Zulu",
+      "stats": [
+        {
+          "label": "In SIB-200",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "SIB-200 topic classification"
+        }
+      ],
+      "notes": [
+        "One of the widest evaluation sets for topic classification across languages."
+      ],
+      "links": [
+        {
+          "label": "SIB-200 on HF",
+          "url": "https://huggingface.co/datasets/Davlan/sib200"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "Hugging Face dataset tags for Davlan/sib200"
+  }
+}

@@ -1,0 +1,2522 @@
+{
+  "sourceId": "belebele",
+  "generatedAt": "2026-08-07T13:24:40Z",
+  "overviewStats": [
+    {
+      "label": "Language variants in Belebele",
+      "value": 96,
+      "format": "number"
+    },
+    {
+      "label": "Task",
+      "value": "Reading comprehension",
+      "format": "text"
+    },
+    {
+      "label": "Signal",
+      "value": "Evaluable, not merely trainable",
+      "format": "text"
+    }
+  ],
+  "languages": [
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "as",
+      "name": "Assamese",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijani",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "bg",
+      "name": "bg",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "bm",
+      "name": "Bambara",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "bo",
+      "name": "Tibetan",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ca",
+      "name": "Catalan",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "et",
+      "name": "et",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ff",
+      "name": "Fulah",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "gn",
+      "name": "gn",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "hr",
+      "name": "hr",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ht",
+      "name": "ht",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "jv",
+      "name": "Javanese",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "kk",
+      "name": "Kazakh",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "km",
+      "name": "Khmer",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "kn",
+      "name": "Kannada",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ku",
+      "name": "Kurdish",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "lg",
+      "name": "Ganda",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ln",
+      "name": "Lingala",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "lo",
+      "name": "Lao",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "lt",
+      "name": "lt",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "lv",
+      "name": "lv",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "mg",
+      "name": "Malagasy",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "mi",
+      "name": "Maori",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "mk",
+      "name": "mk",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "mn",
+      "name": "Mongolian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "mr",
+      "name": "Marathi",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "mt",
+      "name": "mt",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ne",
+      "name": "Nepali",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ny",
+      "name": "Nyanja",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "om",
+      "name": "Oromo",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "or",
+      "name": "Odia",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ps",
+      "name": "Pashto",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "rw",
+      "name": "Kinyarwanda",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "sd",
+      "name": "Sindhi",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "si",
+      "name": "Sinhala",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "sk",
+      "name": "sk",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "sl",
+      "name": "sl",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "tg",
+      "name": "Tajik",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ti",
+      "name": "Tigrinya",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "tn",
+      "name": "Tswana",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ts",
+      "name": "ts",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "uz",
+      "name": "Uzbek",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "wo",
+      "name": "Wolof",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    },
+    {
+      "code": "zu",
+      "name": "Zulu",
+      "stats": [
+        {
+          "label": "In Belebele",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Benchmark",
+          "value": "Belebele reading comprehension"
+        }
+      ],
+      "notes": [
+        "Presence means the language has reading-comprehension evaluation data."
+      ],
+      "links": [
+        {
+          "label": "Belebele on HF",
+          "url": "https://huggingface.co/datasets/facebook/belebele"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "Hugging Face dataset tags for facebook/belebele"
+  }
+}

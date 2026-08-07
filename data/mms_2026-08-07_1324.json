@@ -1,0 +1,4030 @@
+{
+  "sourceId": "mms",
+  "generatedAt": "2026-08-07T13:24:40Z",
+  "overviewStats": [
+    {
+      "label": "Languages in MMS (this harvest)",
+      "value": 129,
+      "format": "number"
+    },
+    {
+      "label": "ASR languages (reported)",
+      "value": "1000+",
+      "format": "text"
+    },
+    {
+      "label": "TTS languages (reported)",
+      "value": "1100+",
+      "format": "text"
+    },
+    {
+      "label": "Primary signal",
+      "value": "Speech Technologies",
+      "format": "text"
+    }
+  ],
+  "languages": [
+    {
+      "code": "ab",
+      "name": "ab",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ak",
+      "name": "Akan",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "as",
+      "name": "Assamese",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "av",
+      "name": "av",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ay",
+      "name": "ay",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijani",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ba",
+      "name": "ba",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "be",
+      "name": "be",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "bg",
+      "name": "bg",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "bi",
+      "name": "bi",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "bm",
+      "name": "Bambara",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "bo",
+      "name": "Tibetan",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "br",
+      "name": "br",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ca",
+      "name": "Catalan",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ce",
+      "name": "ce",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "cv",
+      "name": "cv",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "cy",
+      "name": "Welsh",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "dv",
+      "name": "dv",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "dz",
+      "name": "Dzongkha",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ee",
+      "name": "Ewe",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "eo",
+      "name": "eo",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "et",
+      "name": "et",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ff",
+      "name": "Fulah",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "fj",
+      "name": "Fijian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "fo",
+      "name": "fo",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "fy",
+      "name": "fy",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ga",
+      "name": "Irish",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "gl",
+      "name": "Galician",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "gn",
+      "name": "gn",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ht",
+      "name": "ht",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ia",
+      "name": "ia",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "jv",
+      "name": "Javanese",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ki",
+      "name": "ki",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "kk",
+      "name": "Kazakh",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "km",
+      "name": "Khmer",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "kn",
+      "name": "Kannada",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "kr",
+      "name": "kr",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ku",
+      "name": "Kurdish",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "kv",
+      "name": "kv",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "la",
+      "name": "la",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "lb",
+      "name": "lb",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "lg",
+      "name": "Ganda",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ln",
+      "name": "Lingala",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "lo",
+      "name": "Lao",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "lt",
+      "name": "lt",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "lv",
+      "name": "lv",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "mg",
+      "name": "Malagasy",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "mh",
+      "name": "mh",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "mi",
+      "name": "Maori",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "mk",
+      "name": "mk",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "mn",
+      "name": "Mongolian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "mr",
+      "name": "Marathi",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "mt",
+      "name": "mt",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ne",
+      "name": "Nepali",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ny",
+      "name": "Nyanja",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "oc",
+      "name": "oc",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "om",
+      "name": "Oromo",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "or",
+      "name": "Odia",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "os",
+      "name": "os",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ps",
+      "name": "Pashto",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "qu",
+      "name": "qu",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "rn",
+      "name": "rn",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "rw",
+      "name": "Kinyarwanda",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sd",
+      "name": "Sindhi",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sg",
+      "name": "sg",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sh",
+      "name": "sh",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sk",
+      "name": "sk",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sl",
+      "name": "sl",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sm",
+      "name": "Samoan",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sq",
+      "name": "sq",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "su",
+      "name": "Sundanese",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "tg",
+      "name": "Tajik",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ti",
+      "name": "Tigrinya",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "ts",
+      "name": "ts",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "tt",
+      "name": "tt",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "wo",
+      "name": "Wolof",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "za",
+      "name": "za",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    },
+    {
+      "code": "zu",
+      "name": "Zulu",
+      "stats": [
+        {
+          "label": "In MMS",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Coverage",
+          "value": "Massively Multilingual Speech (ASR/TTS)"
+        }
+      ],
+      "notes": [
+        "MMS provides ASR and/or TTS for a very large set of languages; this snapshot lists languages exposed on the HF model card.",
+        "Full 1000+ ASR / 1100+ TTS lists live in the fairseq MMS examples."
+      ],
+      "links": [
+        {
+          "label": "MMS model on HF",
+          "url": "https://huggingface.co/facebook/mms-1b-all"
+        },
+        {
+          "label": "fairseq MMS",
+          "url": "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "Hugging Face model card for facebook/mms-1b-all + fairseq MMS docs"
+  }
+}
