@@ -1,0 +1,2605 @@
+{
+  "sourceId": "hf-models",
+  "generatedAt": "2026-08-07T14:56:33Z",
+  "overviewStats": [
+    {
+      "label": "Languages in this snapshot",
+      "value": 95,
+      "format": "number",
+      "hint": "presence sample"
+    },
+    {
+      "label": "Filter parameter",
+      "value": "?filter=",
+      "format": "text",
+      "hint": "not ?language="
+    },
+    {
+      "label": "Page size limit",
+      "value": "1000",
+      "format": "number",
+      "hint": "must paginate"
+    },
+    {
+      "label": "Count type",
+      "value": "Presence sample",
+      "format": "text"
+    }
+  ],
+  "languages": [
+    {
+      "code": "ab",
+      "name": "ab",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "af",
+      "name": "af",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ak",
+      "name": "ak",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "as",
+      "name": "as",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "av",
+      "name": "av",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ay",
+      "name": "ay",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "az",
+      "name": "az",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ba",
+      "name": "ba",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "be",
+      "name": "be",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "bg",
+      "name": "bg",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "bi",
+      "name": "bi",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "bm",
+      "name": "Bambara",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "bo",
+      "name": "Tibetan",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "br",
+      "name": "br",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ca",
+      "name": "ca",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ce",
+      "name": "ce",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ceb",
+      "name": "Cebuano",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ckb",
+      "name": "Central Kurdish",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "cv",
+      "name": "cv",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "cy",
+      "name": "cy",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "da",
+      "name": "da",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "dv",
+      "name": "dv",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "dz",
+      "name": "dz",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ee",
+      "name": "ee",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "eo",
+      "name": "eo",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "et",
+      "name": "et",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "eu",
+      "name": "eu",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ff",
+      "name": "Fulah",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "fi",
+      "name": "fi",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "fil",
+      "name": "Filipino",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "fj",
+      "name": "fj",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "fo",
+      "name": "fo",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "fy",
+      "name": "fy",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "gn",
+      "name": "gn",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "gu",
+      "name": "gu",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "hr",
+      "name": "hr",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ht",
+      "name": "ht",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "hu",
+      "name": "hu",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "hy",
+      "name": "hy",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "is",
+      "name": "is",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "jv",
+      "name": "Javanese",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ka",
+      "name": "ka",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "kk",
+      "name": "kk",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "km",
+      "name": "km",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "lt",
+      "name": "Lithuanian",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "mg",
+      "name": "Malagasy",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "mi",
+      "name": "Maori",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ne",
+      "name": "Nepali",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "nqo",
+      "name": "N'Ko",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ny",
+      "name": "Nyanja",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "rw",
+      "name": "Kinyarwanda",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "si",
+      "name": "Sinhala",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "sr",
+      "name": "Serbian",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "ug",
+      "name": "Uyghur",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "wo",
+      "name": "Wolof",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    },
+    {
+      "code": "zu",
+      "name": "Zulu",
+      "stats": [
+        {
+          "label": "Has Hub model coverage (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Signal",
+          "value": "Language appears among Hub resources used for this harvest"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample for AI Readiness view.",
+        "Full model/dataset counts require paginated ?filter= queries and deduplication of massively-multilingual models."
+      ],
+      "links": [
+        {
+          "label": "HF Models",
+          "url": "https://huggingface.co/models"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "Hugging Face Hub models API",
+    "notes": [
+      "TRAP: ?language= is silently ignored — always use ?filter=<lang-tag>.",
+      "API page size is capped; full counts need pagination.",
+      "Massively-multilingual models (e.g. whisper-large-v3) match every tagged language and inflate naive counts — deduplicate or weight when counting.",
+      "This snapshot is a presence sample for the AI Readiness category, not exhaustive model counts."
+    ]
+  }
+}
