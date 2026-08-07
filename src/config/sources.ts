@@ -8,19 +8,19 @@ export interface SourceConfig {
 
 export const SOURCES: SourceConfig[] = [
   {
-    id: "hf-models",
-    name: "Hugging Face Hub (models)",
-    blurb: "Models on the Hub tagged by language. Use ?filter= (not ?language=); paginate and watch for massively-multilingual inflation.",
-    appUrl: "https://huggingface.co/models",
-    tags: ["models", "Hub"],
-  },
-  {
-    id: "hf-datasets",
-    name: "Hugging Face Hub (datasets)",
-    blurb: "Datasets on the Hub tagged by language. Same filter semantics as models; also feeds Language Resources.",
-    appUrl: "https://huggingface.co/datasets",
-    tags: ["datasets", "Hub"],
-  },
+  id: "hf-models",
+  name: "Hugging Face Hub (models)",
+  blurb: "Language-tagged models on the Hub. Counts need careful filtering and deduplication.",
+  appUrl: "https://huggingface.co/models",
+  tags: ["models", "Hub"],
+},
+{
+  id: "hf-datasets",
+  name: "Hugging Face Hub (datasets)",
+  blurb: "Language-tagged datasets on the Hub. Strong signal that a language is trainable.",
+  appUrl: "https://huggingface.co/datasets",
+  tags: ["datasets", "Hub"],
+},
   {
     id: "nllb-200",
     name: "NLLB-200",
