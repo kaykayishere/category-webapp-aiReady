@@ -1,56 +1,67 @@
-/**
- * The registry of data sources this category tracks.
- *
- * One entry per source, in the order they should appear on the homepage grid
- * and on a language's card stack. A source appears in the UI as soon as it is
- * listed here -- with an honest "no data yet" state until a snapshot shows up
- * under `data/<id>/`, so you can register a source before its harvesting
- * script exists.
- *
- * The three entries below are placeholders. Replace them; nothing else in the
- * codebase refers to these ids.
- */
 export interface SourceConfig {
-  /** Must match the folder name under /data. Lowercase, kebab-case. */
   id: string;
-  /** Display name, e.g. the project's own name for itself. */
   name: string;
-  /** One line: what this source is and what it measures. */
   blurb: string;
-  /**
-   * The source's public upstream site, if it has one -- a project homepage, a
-   * repository, a translation portal. Optional and secondary: in-depth pages
-   * live inside this app at /source/<id> and /source/<id>/<code>, so a source
-   * with no upstream site of its own loses nothing by omitting this.
-   */
   appUrl?: string;
-  /** Optional short descriptors rendered as pills on the source card. */
   tags?: string[];
 }
 
 export const SOURCES: SourceConfig[] = [
   {
-    id: "source-one",
-    name: "Placeholder source one",
-    blurb:
-      "Placeholder: describe what this source catalogues and what its numbers count.",
-    appUrl: "https://example.com/source-one",
-    tags: ["placeholder"],
+    id: "hf-models",
+    name: "Hugging Face Hub (models)",
+    blurb: "Models on the Hub tagged by language. Use ?filter= (not ?language=); paginate and watch for massively-multilingual inflation.",
+    appUrl: "https://huggingface.co/models",
+    tags: ["models", "Hub"],
   },
   {
-    id: "source-two",
-    name: "Placeholder source two",
-    blurb:
-      "Placeholder: a second source, to show how two sources sit side by side on a language page.",
-    appUrl: "https://example.com/source-two",
-    tags: ["placeholder"],
+    id: "hf-datasets",
+    name: "Hugging Face Hub (datasets)",
+    blurb: "Datasets on the Hub tagged by language. Same filter semantics as models; also feeds Language Resources.",
+    appUrl: "https://huggingface.co/datasets",
+    tags: ["datasets", "Hub"],
   },
   {
-    id: "source-three",
-    name: "Placeholder source three",
-    blurb:
-      "Placeholder: registered but with no snapshot in /data yet — this is what the empty state looks like.",
-    tags: ["placeholder", "no data yet"],
+    id: "nllb-200",
+    name: "NLLB-200",
+    blurb: "Meta's No Language Left Behind translation models covering ~200 languages (FLORES-aligned).",
+    appUrl: "https://huggingface.co/facebook/nllb-200-distilled-600M",
+    tags: ["translation", "Meta"],
+  },
+  {
+    id: "flores-200",
+    name: "FLORES-200",
+    blurb: "Evaluation benchmark for ~200 languages — the de facto baseline for whether a language is evaluable at all.",
+    appUrl: "https://github.com/facebookresearch/flores",
+    tags: ["benchmark", "MT"],
+  },
+  {
+    id: "sib-200",
+    name: "SIB-200",
+    blurb: "Topic classification benchmark across ~200 languages; among the widest eval coverage available.",
+    appUrl: "https://huggingface.co/datasets/Davlan/sib200",
+    tags: ["benchmark", "classification"],
+  },
+  {
+    id: "belebele",
+    name: "Belebele",
+    blurb: "Reading comprehension across 100+ language variants. Presence means evaluable, not merely trainable.",
+    appUrl: "https://huggingface.co/datasets/facebook/belebele",
+    tags: ["benchmark", "QA"],
+  },
+  {
+    id: "global-mmlu",
+    name: "Global-MMLU",
+    blurb: "Knowledge evaluation (MMLU-style) in 42 languages from Cohere For AI.",
+    appUrl: "https://huggingface.co/datasets/CohereForAI/Global-MMLU",
+    tags: ["benchmark", "knowledge"],
+  },
+  {
+    id: "mms",
+    name: "MMS",
+    blurb: "Massively Multilingual Speech — 1000+ ASR and 1100+ TTS languages (Meta). Strong speech signal.",
+    appUrl: "https://huggingface.co/facebook/mms-1b-all",
+    tags: ["speech", "ASR", "TTS"],
   },
 ];
 
