@@ -1,0 +1,87 @@
+{
+  "sourceId": "source-one",
+  "generatedAt": "2026-01-15T09:00:00Z",
+  "_comment": "PLACEHOLDER DATA — delete this folder once a real harvesting script writes here. Values are invented and mean nothing.",
+  "overviewStats": [
+    { "label": "Records", "value": 4821, "format": "number", "hint": "in latest harvest", "trend": 63 },
+    { "label": "Languages", "value": 6, "format": "number" },
+    { "label": "Coverage", "value": 0.38, "format": "percent", "hint": "of catalogue" },
+    { "label": "Updated", "value": "2026-01-15", "format": "date" }
+  ],
+  "languages": [
+    {
+      "code": "fra",
+      "name": "French",
+      "stats": [
+        { "label": "Records", "value": 412, "trend": 6 },
+        { "label": "Contributors", "value": 28 },
+        { "label": "Coverage", "value": 0.91, "format": "percent" },
+        { "label": "Variants", "value": 4 }
+      ],
+      "details": [
+        { "label": "First recorded", "value": "2019-10-04" },
+        { "label": "Codes seen upstream", "value": "fr | fr-CA | fr-BE" },
+        { "label": "Licence", "value": "Placeholder-2.0" },
+        { "label": "Derivation", "value": "Counted from placeholder resource paths, not a declared support list." }
+      ],
+      "notes": [
+        "Placeholder caveat: this is where a source states the limits of its own numbers, so a reader cannot quote a figure without seeing what qualifies it.",
+        "Placeholder caveat: e.g. counts here are evidence-based inferences and were not reviewed one by one."
+      ],
+      "links": [
+        { "label": "Upstream record", "url": "https://example.com/source-one/records/fra" }
+      ],
+      "detailPath": "/language?code=fra"
+    },
+    {
+      "code": "amh",
+      "name": "Amharic",
+      "stats": [
+        { "label": "Records", "value": 96, "trend": -3 },
+        { "label": "Contributors", "value": 7 },
+        { "label": "Coverage", "value": 0.44, "format": "percent" }
+      ],
+      "detailPath": "/language?code=amh"
+    },
+    {
+      "code": "hin",
+      "name": "Hindi",
+      "stats": [
+        { "label": "Records", "value": 337 },
+        { "label": "Contributors", "value": 19 },
+        { "label": "Coverage", "value": 0.77, "format": "percent" }
+      ],
+      "detailPath": "/language?code=hin"
+    },
+    {
+      "code": "swh",
+      "name": "Swahili",
+      "stats": [
+        { "label": "Records", "value": 154, "trend": 11 },
+        { "label": "Contributors", "value": 12 },
+        { "label": "Coverage", "value": 0.51, "format": "percent" }
+      ],
+      "detailPath": "/language?code=swh"
+    },
+    {
+      "code": "quz",
+      "name": "Cusco Quechua",
+      "stats": [
+        { "label": "Records", "value": 23 },
+        { "label": "Contributors", "value": 3 },
+        { "label": "Coverage", "value": 0.12, "format": "percent" }
+      ],
+      "detailPath": "/language?code=quz"
+    },
+    {
+      "code": "vie",
+      "name": "Vietnamese",
+      "stats": [
+        { "label": "Records", "value": 268 },
+        { "label": "Contributors", "value": 16 },
+        { "label": "Coverage", "value": 0.69, "format": "percent" }
+      ],
+      "detailPath": "/language?code=vie"
+    }
+  ]
+}

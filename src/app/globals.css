@@ -1,0 +1,203 @@
+@import "tailwindcss";
+@import "@fontsource/fraunces/400.css";
+@import "@fontsource/fraunces/500.css";
+@import "@fontsource/fraunces/600.css";
+@import "@fontsource/fraunces/600-italic.css";
+@import "@fontsource/ibm-plex-sans/400.css";
+@import "@fontsource/ibm-plex-sans/500.css";
+@import "@fontsource/ibm-plex-sans/600.css";
+@import "@fontsource/ibm-plex-mono/400.css";
+@import "@fontsource/ibm-plex-mono/500.css";
+@import "@fontsource/ibm-plex-mono/600.css";
+
+:root {
+  /* --- shared token system: warm paper palette, one orange accent --------
+     These values are the house style and are meant to be identical across
+     every category app, so a reader moving between categories sees one
+     system. Change them only if you are restyling the whole portal. */
+  --paper: #f1e9d8;        /* page background: warm ivory */
+  --surface: #fdf9f0;      /* card surface: warm off-white */
+  --ink: #2a1e16;          /* primary text: deep espresso-brown */
+  --ink-soft: #6b5c4c;     /* secondary text: warm taupe */
+  --line: #ddd0b8;         /* hairline borders: warm tan */
+  --band: #2a1e16;         /* dark inverted strips (headers, callouts) */
+  --band-text: #f1e9d8;
+  --up: #4f7942;           /* increase: fern green */
+  --up-soft: #e6ecdc;
+  --down: #af4a2a;         /* decrease: rust/terracotta */
+  --down-soft: #f3e3da;
+  --brass: #fb4b1e;        /* the shared brand accent */
+  --brass-soft: #fde4da;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-line: var(--line);
+  --color-band: var(--band);
+  --color-band-text: var(--band-text);
+  --color-up: var(--up);
+  --color-up-soft: var(--up-soft);
+  --color-down: var(--down);
+  --color-down-soft: var(--down-soft);
+  --color-brass: var(--brass);
+  --color-brass-soft: var(--brass-soft);
+  --font-display: "Fraunces", ui-serif, Georgia, serif;
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", monospace;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+/* --- cards -------------------------------------------------------------
+   Two levels: `.card` is the flat default used for anything list-like or
+   content-bearing; `.card-raised` sits physically above the page and
+   depresses on hover, so reserve it for the small number of tappable
+   summary tiles on a page (the headline stat row, the data-source grid).
+   Using it everywhere flattens the hierarchy it exists to create. */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+.card-raised {
+  position: relative;
+  border-radius: 10px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.9),
+    0 1px 0 rgba(23, 29, 43, 0.07),
+    0 2px 0 rgba(23, 29, 43, 0.09),
+    0 3px 0 rgba(23, 29, 43, 0.11),
+    0 4px 0 rgba(23, 29, 43, 0.13),
+    0 5px 0 rgba(23, 29, 43, 0.15),
+    0 6px 0 rgba(23, 29, 43, 0.17),
+    0 12px 18px rgba(23, 29, 43, 0.22);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.card-raised:hover {
+  transform: translateY(6px);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.9),
+    0 1px 0 rgba(23, 29, 43, 0.1),
+    0 2px 3px rgba(23, 29, 43, 0.15);
+}
+
+/* placeholder state for a source that is wired up but has no data yet */
+.card-empty {
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--surface) 60%, transparent);
+}
+
+/* --- controls ---------------------------------------------------------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  padding: 0.45rem 0.85rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--ink);
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+.btn:hover {
+  border-color: var(--brass);
+  color: var(--brass);
+}
+
+.btn-primary {
+  background: var(--brass);
+  border-color: var(--brass);
+  color: #fff;
+}
+.btn-primary:hover {
+  background: color-mix(in srgb, var(--brass) 85%, #000);
+  border-color: color-mix(in srgb, var(--brass) 85%, #000);
+  color: #fff;
+}
+
+.field {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+  outline: none;
+}
+.field:focus {
+  border-color: var(--brass);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--brass) 25%, transparent);
+}
+
+/* segmented control -- the "search by …" mode switch */
+.seg {
+  display: inline-flex;
+  gap: 0.25rem;
+  padding: 0.25rem;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--surface) 70%, transparent);
+}
+.seg-btn {
+  border-radius: 7px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--ink-soft);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.seg-btn:hover {
+  color: var(--ink);
+}
+.seg-btn[aria-selected="true"] {
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: 0 1px 2px rgba(23, 29, 43, 0.12);
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--surface) 80%, transparent);
+  padding: 0.1rem 0.55rem;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+}
+.pill-accent {
+  border-color: color-mix(in srgb, var(--brass) 40%, var(--line));
+  background: var(--brass-soft);
+  color: var(--brass);
+}
+
+/* small-caps mono eyebrow used above headings */
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--ink-soft);
+}
