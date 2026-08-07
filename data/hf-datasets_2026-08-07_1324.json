@@ -1,0 +1,2645 @@
+{
+  "sourceId": "hf-datasets",
+  "generatedAt": "2026-08-07T13:24:40Z",
+  "overviewStats": [
+    {
+      "label": "API",
+      "value": "huggingface.co/api/datasets?filter=<lang>",
+      "format": "text"
+    },
+    {
+      "label": "Caveat",
+      "value": "Same filter semantics as models",
+      "format": "text"
+    },
+    {
+      "label": "Also feeds",
+      "value": "Language Resources category",
+      "format": "text"
+    }
+  ],
+  "languages": [
+    {
+      "code": "ab",
+      "name": "ab",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ak",
+      "name": "Akan",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "as",
+      "name": "Assamese",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "av",
+      "name": "av",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ay",
+      "name": "ay",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijani",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ba",
+      "name": "ba",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "be",
+      "name": "be",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "bg",
+      "name": "bg",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "bi",
+      "name": "bi",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "bm",
+      "name": "Bambara",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "bo",
+      "name": "Tibetan",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "br",
+      "name": "br",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ca",
+      "name": "Catalan",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ce",
+      "name": "ce",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ceb",
+      "name": "Cebuano",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ckb",
+      "name": "Central Kurdish",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "cv",
+      "name": "cv",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "cy",
+      "name": "Welsh",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "dv",
+      "name": "dv",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "dz",
+      "name": "Dzongkha",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ee",
+      "name": "Ewe",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "eo",
+      "name": "eo",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "et",
+      "name": "et",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ff",
+      "name": "Fulah",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "fil",
+      "name": "Filipino",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "fj",
+      "name": "Fijian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "fo",
+      "name": "fo",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "fy",
+      "name": "fy",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ga",
+      "name": "Irish",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "gl",
+      "name": "Galician",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "gn",
+      "name": "gn",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "hr",
+      "name": "hr",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ht",
+      "name": "ht",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "jv",
+      "name": "Javanese",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "kk",
+      "name": "Kazakh",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "km",
+      "name": "Khmer",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ky",
+      "name": "Kyrgyz",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "lt",
+      "name": "lt",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "mg",
+      "name": "Malagasy",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "mi",
+      "name": "Maori",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ne",
+      "name": "Nepali",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "nqo",
+      "name": "N'Ko",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ny",
+      "name": "Nyanja",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "rw",
+      "name": "Kinyarwanda",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "si",
+      "name": "Sinhala",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "sr",
+      "name": "sr",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "ug",
+      "name": "Uyghur",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "wo",
+      "name": "Wolof",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    },
+    {
+      "code": "zu",
+      "name": "Zulu",
+      "stats": [
+        {
+          "label": "Has HF dataset tags (sample)",
+          "value": "Yes",
+          "format": "text"
+        }
+      ],
+      "details": [
+        {
+          "label": "Note",
+          "value": "Language appears in dataset tags or related resources on the Hub"
+        }
+      ],
+      "notes": [
+        "Presence-oriented sample. Full counts need paginated filter queries.",
+        "Datasets on the Hub are a strong signal of trainable / evaluable resources."
+      ],
+      "links": [
+        {
+          "label": "HF Datasets API",
+          "url": "https://huggingface.co/api/datasets"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "Hugging Face Hub datasets API"
+  }
+}
